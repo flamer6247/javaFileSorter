@@ -20,6 +20,7 @@ public class FileFunctions {
             fileName = files[x];
 
             if(fileName.substring(startLength , nameLength) != null){
+                //change name of file[x] to new dir to change the location of fiole[x] then at the end make file = directory.list()
                 
             }
         }
